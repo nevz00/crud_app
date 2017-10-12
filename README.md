@@ -14,5 +14,5 @@
   
   * Spring MVC
   
- 
+ [Скрипт для создания тестовой базы с данными](https://github.com/nevz00/crud_app/blob/master/src/main/resources/database/script.sql)
  

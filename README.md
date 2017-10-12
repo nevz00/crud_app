@@ -2,13 +2,13 @@
 
 Используемые технологии:
 
-  * Maven
+  * Maven(Для сборки)
   
-  * Tomcat
+  * Tomcat(Для запуска)
   
   * Spring
   
-  * Hibernate
+  * Hibernate(Для связи с Базой данных)
   
   * MySql (база test, таблица books, логин и пароль - root + скрипт для создания базы лежит в resources)
   

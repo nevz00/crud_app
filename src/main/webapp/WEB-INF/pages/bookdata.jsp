@@ -71,5 +71,6 @@
     <td>${book.readAlready}</td>
   </tr>
 </table>
+<a href="<c:url value="/books"/>">Back</a>
 </body>
 </html>
